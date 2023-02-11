@@ -34,8 +34,11 @@ roboto
 sf pro
 sicret
 falcon
+SF Pro Display
+Source Code Pro
 source sans pro /
 adventor
 typographica
 vector
 work sans
+Fira Code //
