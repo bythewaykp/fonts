@@ -29,12 +29,14 @@ outfit /
 oxygen
 paragon
 poppins
+Product Sans
 century
 roboto
 sf pro
 sicret
 falcon
 SF Pro Display
+SF Pro Text
 Source Code Pro
 source sans pro /
 adventor
